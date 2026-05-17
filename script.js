@@ -1,3 +1,5 @@
+// Kochana mamo, czy wzięłaś może raz pod uwagę że ja mam poprostu problemy z moim stanem psychicznym? spóźniam się na lekcje bo płaczę po kiblach i mam ataki paniki oraz codziennie zastanawiam się nad samobójstwem. wzięłaś pod uwagę że może depresja wróciła? bo chyba dla ciebie liczą się tylko oceny a nie mój pierdolony stan psychiczny. mam w to wyjebane czy jest coś po śmierci, ja już poprostu nie chce żyć bo z dnia na dzień wszystko staje się coraz trudniejsze. 
+
 document.addEventListener("DOMContentLoaded", () => {
 
   const texts = [

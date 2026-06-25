@@ -1,9 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+  // There was "vibe coded website btw." but i deleted that because i didnt knew what this means and i ment that i was doing all kind of relaxing things while codeing and i was feeling the vibe
   const texts = [
     "cute silly femboy looner :3",
     "femboy developer",
-    "vibe coded website btw."
+
 
   ];
 

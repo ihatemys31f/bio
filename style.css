@@ -220,36 +220,3 @@ summary {
 @keyframes blink {
   50% { opacity: 0; }
 }
-
-.popup {
-  display: none;
-  position: fixed;
-  inset: 0;
-
-  background: rgba(0,0,0,0.8);
-
-  justify-content: center;
-  align-items: center;
-
-  z-index: 999;
-}
-
-.popupContent {
-  width: 90%;
-  max-width: 500px;
-
-  padding: 25px;
-
-  border: 2px solid #00ffd5;
-  border-radius: 18px;
-
-  background: #050816;
-
-  box-shadow: 0 0 30px #ff4fd8;
-}
-
-#closePopup {
-  float: right;
-  cursor: pointer;
-  font-size: 28px;
-}

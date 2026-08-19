@@ -41,16 +41,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   typeLoop();
 
-  const aboutBtn = document.getElementById("aboutBtn");
-  const popup = document.getElementById("aboutPopup");
-  const closePopup = document.getElementById("closePopup");
-
-  aboutBtn.onclick = () => {
-    popup.style.display = "flex";
-  };
-
-  closePopup.onclick = () => {
-    popup.style.display = "none";
-  };
 
 });

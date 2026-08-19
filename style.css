@@ -220,3 +220,77 @@ summary {
 @keyframes blink {
   50% { opacity: 0; }
 }
+
+.infoBox {
+
+  margin-top: 25px;
+
+  padding: 18px;
+
+  border: 2px solid #ff4fd8;
+
+  border-radius: 16px;
+
+  background: #0a0a14;
+
+  text-align: left;
+
+  transition: 0.2s ease;
+
+}
+
+.infoBox:hover {
+
+  box-shadow: 0 0 15px #ff4fd8;
+
+}
+
+.infoBox summary {
+
+  cursor: pointer;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  color: #00ffd5;
+
+  user-select: none;
+
+}
+
+.infoContent {
+
+  margin-top: 15px;
+
+  padding: 5px;
+
+  line-height: 1.6;
+
+}
+
+.infoContent h2 {
+
+  margin-top: 0;
+
+  color: #ff4fd8;
+
+}
+
+.infoContent p {
+
+  color: #ddd;
+
+}
+
+.pcImage {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+
+    border-radius: 14px;
+    border: 2px solid #ff4fd8;
+
+    box-shadow: 0 0 15px rgba(255, 79, 216, 0.25);
+}
